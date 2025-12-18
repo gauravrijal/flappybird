@@ -2,6 +2,8 @@
 
 A simple Flappy Bird clone built with React and TypeScript.
 
+**[Play the Game Live](https://gauravrijal.github.io/flappybird/)**
+
 ## Features
 - Physics engine (Gravity, Velocity, Rotation)
 - Dynamic Obstacle generation
