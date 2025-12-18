@@ -2,7 +2,7 @@
 
 A simple Flappy Bird clone built with React and TypeScript.
 
-**[Play the Game Live](https://gauravrijal.github.io/flappybird/)**
+**<a href="https://gauravrijal.github.io/flappybird/" target="_blank">Play the Game Live</a>**
 
 ## Features
 - Physics engine (Gravity, Velocity, Rotation)
